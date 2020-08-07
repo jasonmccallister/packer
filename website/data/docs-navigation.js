@@ -297,7 +297,6 @@ export default [
       'docker-push',
       'docker-save',
       'docker-tag',
-      'exoscale-import',
       'googlecompute-export',
       'googlecompute-import',
       'manifest',
